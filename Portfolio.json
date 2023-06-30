@@ -1,0 +1,179 @@
+
+{
+    "Skills" : [
+        {
+            "name" : "HTML",
+            "Level" : "master"
+        },
+        {
+            "name" : "CSS",
+            "Level" : "master"
+        },
+        {
+            "name" : "Bootstrap",
+            "Level" : "master"
+        },
+        {
+            "name" : "SQL",
+            "Level" : "Intermediate"
+        },
+        {
+            "name" : "Javascript",
+            "Level" : "Intermediate"
+        },
+        {
+            "name" : "Wordpress",
+            "Level" : "Intermediate"
+        },
+        {
+            "name" : "UX Design",
+            "Level" : "master"
+        }
+    ],
+    "education" : [
+        {
+            
+            "id" : 1,
+            "name" : "Garlandale Primary",
+            "Level" : "Primary",
+            "year" : 2012
+         
+        },
+        {
+            
+            "id" : 2,
+            "name" : "J G Meiring",
+            "Level" : "Matric",
+            "year" : 2017
+         
+        },
+        {
+            
+            "id" : 3,
+            "name" : "Silulo Ulutho Technologies",
+            "Level" : "End User computing(NQF 5)",
+            "year" : 2019
+         
+        },
+        {
+            
+            "id" : 4,
+            "name" : "CAPACITI",
+            "Level" : "Basic Web Development(NQF 5)",
+            "year" : 2020
+         
+        },
+        {
+            
+            "id" : 5,
+            "name" : "IT Varsity",
+            "Level" : "Front end web development(NQF 5)",
+            "year" : 2022
+         
+        },
+        {
+            
+            "id" : 6,
+            "name" : "CAPACITI",
+            "Level" : "Data analysis(NQF 5)",
+            "year" : 2022
+         
+        }
+    ],
+    "Projects" : [
+        {
+            
+            "id" : 1,
+            "image" :"https://i.postimg.cc/zvrrz3BJ/Screenshot-2023-06-30-135404.png",
+             "project" : "BMI Calculator",
+             "Description" : "Built using html , css , Javascript & Bootstrap",
+             "codeUrl" : "https://github.com/S1bu/BMI-calculator",
+             "showUrl" : "https://bmi-calculator-sibusiso-dyan.netlify.app/"
+        },
+        {
+            
+            "id" : 2,
+            "image" :"https://i.postimg.cc/Yq8H7rwH/Screenshot-2023-06-30-135617.png",
+             "project" : "Tesla Landing page",
+             "Description" : "Built using html & css",
+             "codeUrl" : "https://github.com/Sibu-dev-stuff/tesla",
+             "showUrl" : "https://tesla-sibusisodyan.netlify.app/"
+        },
+        {
+            
+            "id" : 3,
+            "image" :"https://i.postimg.cc/JzkSnZyj/Screenshot-2023-06-30-140534.png",
+             "project" : "Guess the Game",
+             "Description" : "Built using html , css & Javascript",
+             "codeUrl" : "https://github.com/Sibu-dev-stuff/Guess-game",
+             "showUrl" : "https://guessing-gam-sibusiso-dyan.netlify.app/"
+        },
+        {
+            
+            "id" : 4,
+            "image" :"https://i.postimg.cc/vTtdcMg5/Screenshot-2023-06-30-135429.png",
+             "project" : "Calculator",
+             "Description" : "Built using html , css , Javascript & Bootstrap",
+             "codeUrl" : "https://github.com/S1bu/Calculator",
+             "showUrl" : "https://calculator-app-sibusiso.netlify.app/"
+        },
+        {
+            
+            "id" : 5,
+            "image" :"https://i.postimg.cc/cLHN4ps8/Screenshot-2023-06-30-135231.png",
+             "project" : "Ecommerce",
+             "Description" : "Built using html , css , Javascript & Bootstrap",
+             "codeUrl" : "https://github.com/S1bu/Javascript_EOMP",
+             "showUrl" : "https://javascript-eomp-ecommerce.netlify.app/"
+        },
+        {
+            
+            "id" : 6,
+            "image" :" https://i.postimg.cc/Nfxg08mZ/Screenshot-2023-06-30-135452.png",
+             "project" : "Temperature converter",
+             "Description" : "Built using html , css , Javascript & Bootstrap",
+             "codeUrl" : "https://github.com/S1bu/Temperature-converter",
+             "showUrl" : "https://temperature-convertor-sd.netlify.app/"
+        }
+         
+       
+        
+    ],
+    "Testimonials" : [
+        {
+            "id" : 1,
+             "fullname" : "Jason Viljoen",
+             "Relation" : "Peer",
+             "Description" : "Being able to collaborate with Sibusiso on projects has been a true pleasure. He demonstrates excellent potential and a desire to pick up new abilities, makes the workplace productive. In the brief period that we have worked together,he has consistently demonstrated a keen interest in both front end and back end development.generating fresh, creative ideas, which makes him a valuable member of any team or organization. He is extremely meticulous and professional throughout all of his endeavors."
+        },
+        {
+            "id" : 2,
+             "fullname" : "Alonso Cupido ",
+             "Relation" : "Peer",
+             "Description" : "Sibusiso is an excellent individual that works well in a team, puts in a lot of effort, and is consistently on time. He is an excellent addition to your team and is highly dependable. He has a solid understanding of IT and web development. If you were to accept him, any team would be fortunate."
+        },
+        {
+            "id" : 3,
+             "fullname" : "Taflynne Summer Peterson",
+             "Relation" : "Peer",
+             "Description" : "Sibusiso Dyan is the most helpful and skilled person , who knows what he is doing. He has a very good understanding on html and css and bootstrap. He has many strong points in web development. He can pick on errors very well and able to fix them well. He has leadership skills, adapts well to almost anything he is faced with. I aspire to be a great web developer as Sibusiso. He inspires me. He will be an asset to any company or field he works in."
+        },
+        {
+            "id" : 4,
+             "fullname" : "Rabia Haucha",
+             "Relation" : "Peer",
+             "Description" : "Sibusiso, or Sibu as he like to be called, is a go-getter and a true diamond both personally and professionally. He is also a wonderful person all around.In addition, he is incredibly helpful and intelligent.He is always willing to clarify and make sure you understand if you don't comprehend something.He is a really friendly and upbeat persona who makes you feel at ease.He truly works hard and is very focused on his objectives and work. However, he is a terrific guy and will turn any company into a success!"
+        },
+        {
+            "id" : 5,
+             "fullname" : "Abdul-Azeez Kemp",
+             "Relation" : "lecturer",
+             "Description" : "Sibusiso, great guy, focused individual, knows what he wants. His way of thinking and implementing his thoughts and planning into coding is great. Phenomenal guy, good team player and has a strong knowledge of coding."
+        }
+    ]
+}
+ 
+
+ 
+
+

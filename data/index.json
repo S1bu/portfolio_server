@@ -83,7 +83,7 @@
     "Work" :[
         {
             "id" : 1,
-            "image" :"",
+            "image" :"https://i.postimg.cc/JnZzSj4c/life-choices-real.jpg",
             "institution" : "Life Choices Academy",
             "role" : "Full stack web developer (Bootcamp trainee)",
             "duration": "April - currently",
@@ -91,7 +91,7 @@
         },
         {
             "id" : 2,
-            "image" :"",
+            "image" :"https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
             "institution" : "Capaciti",
             "role" : "Data analyst (Bootcamp trainee)",
             "duration": "Aug 2022 - Nov 2022",
@@ -99,7 +99,7 @@
         },
         {
             "id" : 3,
-            "image" :"",
+            "image" :"https://i.postimg.cc/hGJjbHkY/Digital-academy.jpg",
             "institution" : "Digital Academy",
             "role" : " Fullstack web developer(Bootcamp trainee)",
             "duration": "March 2022 - July 2022",
@@ -107,7 +107,7 @@
         },
         {
             "id" : 4,
-            "image" :"",
+            "image" :"https://i.postimg.cc/nrxhxMX8/ITv-Logo.png",
             "institution" : "IT Varsity",
             "role" : "Frontend web development(Bootcamp trainee)",
             "duration": "Nov 2020 - Oct 2021",
@@ -115,7 +115,7 @@
         },
         {
             "id" : 5,
-            "image" :"",
+            "image" :"https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
             "institution" : "Capaciti",
             "role" : "Frontend web development(Bootcamp trainee)",
             "duration": " March 2020 - Oct 2020",

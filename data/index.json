@@ -143,14 +143,14 @@
         {
             "id" : 1,
              "fullname" : "Jason Viljoen",
-             "image" : "https://i.postimg.cc/v87mz7KG/Jason-viljoen.jpg"
+             "image" : "https://i.postimg.cc/v87mz7KG/Jason-viljoen.jpg",
              "Relation" : "Peer",
              "Description" : "Being able to collaborate with Sibusiso on projects has been a true pleasure. He demonstrates excellent potential and a desire to pick up new abilities, makes the workplace productive. In the brief period that we have worked together,he has consistently demonstrated a keen interest in both front end and back end development.generating fresh, creative ideas, which makes him a valuable member of any team or organization. He is extremely meticulous and professional throughout all of his endeavors."
         },
         {
             "id" : 2,
              "fullname" : "Alonso Cupido ",
-             "image":"https://i.postimg.cc/GhcmS80G/alonso.jpg"
+             "image":"https://i.postimg.cc/GhcmS80G/alonso.jpg",
              "Relation" : "Peer",
              "Description" : "Sibusiso is an excellent individual that works well in a team, puts in a lot of effort, and is consistently on time. He is an excellent addition to your team and is highly dependable. He has a solid understanding of IT and web development. If you were to accept him, any team would be fortunate."
         },
@@ -164,7 +164,7 @@
         {
             "id" : 4,
              "fullname" : "Rabia Haucha",
-             "image" : "https://i.postimg.cc/xTt1rfY7/Rabia.jpg"
+             "image" : "https://i.postimg.cc/xTt1rfY7/Rabia.jpg",
              "Relation" : "Peer",
              "Description" : "Sibusiso, or Sibu as he like to be called, is a go-getter and a true diamond both personally and professionally. He is also a wonderful person all around.In addition, he is incredibly helpful and intelligent.He is always willing to clarify and make sure you understand if you don't comprehend something.He is a really friendly and upbeat persona who makes you feel at ease.He truly works hard and is very focused on his objectives and work. However, he is a terrific guy and will turn any company into a success!"
         },

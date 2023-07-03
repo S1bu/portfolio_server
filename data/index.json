@@ -80,6 +80,49 @@
          
         }
     ],
+    "Work" :[
+        {
+            "id" : 1,
+            "image" :"",
+            "institution" : "Life Choices Academy",
+            "role" : "Full stack web developer (Bootcamp trainee)",
+            "duration": "April - currently",
+            "R.O.L":"still actie"
+        },
+        {
+            "id" : 2,
+            "image" :"",
+            "institution" : "Capaciti",
+            "role" : "Data analyst (Bootcamp trainee)",
+            "duration": "Aug 2022 - Nov 2022",
+            "R.O.L":"Contract ended"
+        },
+        {
+            "id" : 3,
+            "image" :"",
+            "institution" : "Digital Academy",
+            "role" : " Fullstack web developer(Bootcamp trainee)",
+            "duration": "March 2022 - July 2022",
+            "R.O.L":"Contract ended"
+        },
+        {
+            "id" : 4,
+            "image" :"",
+            "institution" : "IT Varsity",
+            "role" : "Frontend web development(Bootcamp trainee)",
+            "duration": "Nov 2020 - Oct 2021",
+            "R.O.L":"Contract ended"
+        },
+        {
+            "id" : 5,
+            "image" :"",
+            "institution" : "Capaciti",
+            "role" : "Frontend web development(Bootcamp trainee)",
+            "duration": " March 2020 - Oct 2020",
+            "R.O.L":"Contract ended"
+        }
+        
+    ],
     "Projects" : [
         {
             

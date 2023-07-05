@@ -108,7 +108,7 @@
             "role" : "Full stack web developer (Bootcamp trainee)",
             "duration": "April - November",
             "reason":"still active",
-            "job-spec" : "Follow the SDLC(Software development life choice),UX Design,Build and maintain/update our websites and apps."
+            "duties" : "Follow the SDLC(Software development life choice),UX Design,Build and maintain/update our websites and apps."
         },
         {
             "id" : 2,
@@ -117,7 +117,7 @@
             "role" : "Data analyst (Bootcamp trainee)",
             "duration": "Aug 2022 - Nov 2022",
             "reason":"Contract ended",
-            "job-spec" :"Data capture, data visualisation , data sorting , data cleaning , and presenting our data."
+            "duties" :"Data capture, data visualisation , data sorting , data cleaning , and presenting our data."
         },
         {
             "id" : 3,
@@ -126,7 +126,7 @@
             "role" : " Fullstack web developer(Bootcamp trainee)",
             "duration": "March 2022 - July 2022",
             "reason":"Contract ended",
-            "job-spec" : "UX deseign , Build and maintain web apps"
+            "duties" : "UX deseign , Build and maintain web apps"
         },
         {
             "id" : 4,
@@ -135,7 +135,7 @@
             "role" : "Frontend web development(Bootcamp trainee)",
             "duration": "Nov 2020 - Oct 2021",
             "reason":"Contract ended",
-            "job-spec" : "UX Design,Build and maintain websites and apps,Time management and active learning."
+            "duties" : "UX Design,Build and maintain websites and apps,Time management and active learning."
         },
         {
             "id" : 5,
@@ -144,7 +144,7 @@
             "role" : "Frontend web development(Bootcamp trainee)",
             "duration": " March 2020 - Oct 2020",
             "reason":"Contract ended",
-            "job-spec": "Building basic websites using basic html and basic css and Meeting project deadlines."
+            "duties": "Building basic websites using basic html and basic css and Meeting project deadlines."
         }
         
     ],

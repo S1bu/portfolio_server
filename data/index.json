@@ -1,33 +1,53 @@
 
 {
      "Skills" : [
-        {
+       {
+            "id" : 1,
+            "logo" : "https://i.postimg.cc/pT7XRpB1/HTML-LOGO.png",
             "name" : "HTML",
             "Level" : "master"
         },
         {
+            "id" : 2,
+            "logo" : "https://i.postimg.cc/8PLWXSpV/CSS-LOGO.png",
             "name" : "CSS",
             "Level" : "master"
         },
         {
+            "id" : 3,
+            "logo" : "https://i.postimg.cc/Nj4XYk2J/BS-LOGO.png",
             "name" : "Bootstrap",
             "Level" : "master"
         },
         {
+            "id" : 4,
+            "logo" : "https://i.postimg.cc/xjJLHmB8/SQL-LOG.png",
             "name" : "SQL",
             "Level" : "Intermediate"
         },
         {
+            "id" :5,
+            "logo" : "https://i.postimg.cc/J7fZQnWq/JS-LOGO.png",
             "name" : "Javascript",
             "Level" : "Intermediate"
         },
         {
+            "id" : 6,
+            "logo" : "https://i.postimg.cc/HkHMfhn8/wordpress-logo.png",
             "name" : "Wordpress",
             "Level" : "Intermediate"
         },
         {
+            "id" : 7,
+            "logo" : "https://i.postimg.cc/Hj1Y8RRw/UX-LOGO.png",
             "name" : "UX Design",
             "Level" : "master"
+        },
+        {
+            "id" : 8,
+            "logo" : "https://i.postimg.cc/KjMczxqc/vue-logo.png",
+            "name" : "Vue",
+            "Level" : "Average"
         }
     ],
     "education" : [

@@ -34,28 +34,28 @@
             "logo" : "https://i.postimg.cc/J7fZQnWq/JS-LOGO.png",
             "name" : "Javascript",
             "Level" : "Intermediate",
-            "Description" : ""
+            "Description" : "🤓💻I first encountered Javascript in 2021, but I had no idea what I was doing. Over the following years, I continued to study more about it, both online and by attending bootcamps, in an effort to improve my proficiency with it."
         },
         {
             "id" : 6,
             "logo" : "https://i.postimg.cc/HkHMfhn8/wordpress-logo.png",
             "name" : "Wordpress",
             "Level" : "Intermediate",
-            "Description" : "The last time i worked on this project was 2021, havent been using it for quite some time , because I believe in the freedom of coding my own projects 🙂"
+            "Description" : "The last time i worked on this project was 2021 , havent been using it for quite some time , because I believe in the freedom of coding my own projects 🙂"
         },
         {
             "id" : 7,
             "logo" : "https://i.postimg.cc/Hj1Y8RRw/UX-LOGO.png",
             "name" : "UX Design",
             "Level" : "master",
-            "Description" : ""
+            "Description" : "I've been working with UX design for three years, and for education and inspiration, I've browsed instagram and youtube channels as well as went to bootcamps.My design skills have definitely improved over the past three years, but there is always potential for improvement.💪"
         },
         {
             "id" : 8,
             "logo" : "https://i.postimg.cc/KjMczxqc/vue-logo.png",
             "name" : "Vue",
             "Level" : "Average",
-            "Description" : "I've only recently started using Vue.js, but so far it has been both tough and interesting.Vue.js was used to create this web application. I intend to use this JS framework to create an online store soon. "
+            "Description" : "Vue.js is something I've only recently started using, but so far it's been challenging and intriguing.This web app was developed with Vue.js. I'm shortly going to build an ecommerce using this JS framework. "
         }
     ],
     "education" : [

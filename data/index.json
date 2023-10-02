@@ -62,6 +62,7 @@
         {
             
             "id" : 1,
+             "logo" :"https://i.postimg.cc/441gCrVF/Garlandale.jpg",
             "name" : "Garlandale Primary",
             "Level" : "Primary",
             "year" : 2012
@@ -70,6 +71,7 @@
         {
             
             "id" : 2,
+             "logo" : "https://i.postimg.cc/nrGSybWK/jgmeiring.jpg",
             "name" : "J G Meiring",
             "Level" : "Matric",
             "year" : 2017
@@ -78,6 +80,7 @@
         {
             
             "id" : 3,
+             "logo" : "https://i.postimg.cc/T1vgrKCQ/silulo.jpg",
             "name" : "Silulo Ulutho Technologies",
             "Level" : "End User computing(NQF 5)",
             "year" : 2019
@@ -86,6 +89,7 @@
         {
             
             "id" : 4,
+             "logo" : "https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
             "name" : "CAPACITI",
             "Level" : "Basic Web Development(NQF 5)",
             "year" : 2020
@@ -94,6 +98,7 @@
         {
             
             "id" : 5,
+             "logo":"https://i.postimg.cc/nrxhxMX8/ITv-Logo.png",
             "name" : "IT Varsity",
             "Level" : "Front end web development(NQF 5)",
             "year" : 2022
@@ -102,6 +107,7 @@
         {
             
             "id" : 6,
+             "logo" : "https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
             "name" : "CAPACITI",
             "Level" : "Data analysis(NQF 5)",
             "year" : 2022

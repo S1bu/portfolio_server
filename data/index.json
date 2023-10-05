@@ -98,7 +98,7 @@
         {
             
             "id" : 5,
-             "logo":"https://i.postimg.cc/nrxhxMX8/ITv-Logo.png",
+             "logo":"https://i.postimg.cc/pXCDGwZd/it-varsity.jpg",
             "name" : "IT Varsity",
             "Level" : "Front end web development(NQF 5)",
             "year" : 2022
@@ -144,7 +144,7 @@
         },
         {
             "id" : 4,
-            "image" :"https://i.postimg.cc/nrxhxMX8/ITv-Logo.png",
+            "image" :"https://i.postimg.cc/pXCDGwZd/it-varsity.jpg",
             "institution" : "IT Varsity",
             "role" : "Frontend web development(Bootcamp trainee)",
             "duration": "Nov 2020 - Oct 2021",

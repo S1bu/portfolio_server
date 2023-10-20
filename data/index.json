@@ -119,15 +119,24 @@
             "Level" : "Data analysis(NQF 5)",
             "year" : 2022
          
-        }
+        },
+           {
+            
+            "id" : 7,
+             "logo" : "https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
+            "name" : "Life Choices Academy",
+            "Level" : "Full stack web development(NQF 5)",
+            "year" : 2023
+         
+        },
     ],
     "Work" :[
         {
             "id" : 1,
-            "image" :"https://i.postimg.cc/JnZzSj4c/life-choices-real.jpg",
+             "image":"https://i.postimg.cc/DZRMfG55/lcstudio.jpg",
             "institution" : "Life Choices Academy",
-            "role" : "Full stack web developer (Bootcamp trainee)",
-            "duration": "April - November",
+            "role" : "Lc Studio Intern",
+            "duration": " September- present",
             "reason":"still active",
             "duties" : "Follow the SDLC(Software development life choice),UX Design,Build and maintain/update our websites and apps."
         },

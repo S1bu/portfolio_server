@@ -56,6 +56,13 @@
             "name" : "Vue",
             "Level" : "Junior",
             "Description" : "Vue.js is something I've only recently started using, but so far it's been challenging and intriguing.This web app was developed with Vue.js. I'm shortly going to build an ecommerce using this JS framework. "
+        },
+           {
+            "id" : 9,
+            "logo" : "https://i.postimg.cc/d3mx9bHb/logo-200x200.png",
+            "name" : "Python",
+            "Level" : "Junior",
+            "Description" : "🐍✅Im excited to have started leanrning this programming language,its syntax is very simple and readable.I havent built any project with this language as of yet,but sooon I will be working on cool thing like live image recognition."
         }
     ],
     "education" : [

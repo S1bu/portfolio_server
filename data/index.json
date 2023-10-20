@@ -53,7 +53,7 @@
         {
             "id" : 8,
             "logo" : "https://i.postimg.cc/KjMczxqc/vue-logo.png",
-            "name" : "Vue",
+            "name" : "Vue.js",
             "Level" : "Junior",
             "Description" : "Vue.js is something I've only recently started using, but so far it's been challenging and intriguing.This web app was developed with Vue.js. I'm shortly going to build an ecommerce using this JS framework. "
         },

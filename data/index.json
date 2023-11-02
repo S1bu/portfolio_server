@@ -69,6 +69,7 @@
         {
             
             "id" : 1,
+            "picture":"https://i.postimg.cc/zXTBtjfC/Screenshot-2023-11-02-093721.png",
              "logo" :"https://i.postimg.cc/441gCrVF/Garlandale.jpg",
             "name" : "Garlandale Primary",
             "Level" : "Primary",
@@ -78,6 +79,7 @@
         {
             
             "id" : 2,
+            "picture":"https://i.postimg.cc/SjFrfrxT/Screenshot-2023-11-02-093329.png",
              "logo" : "https://i.postimg.cc/nrGSybWK/jgmeiring.jpg",
             "name" : "J G Meiring",
             "Level" : "Matric",
@@ -87,6 +89,7 @@
         {
             
             "id" : 3,
+            "picture":"https://i.postimg.cc/FHxZ005p/Screenshot-2023-11-02-093034.png",
              "logo" : "https://i.postimg.cc/T1vgrKCQ/silulo.jpg",
             "name" : "Silulo Ulutho Technologies",
             "Level" : "End User computing(NQF 5)",
@@ -96,6 +99,7 @@
         {
             
             "id" : 4,
+            "picture":"https://i.postimg.cc/DfHtHPXz/Screenshot-2023-11-02-091053.png",
              "logo" : "https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
             "name" : "CAPACITI",
             "Level" : "Basic Web Development(NQF 5)",
@@ -105,6 +109,7 @@
         {
             
             "id" : 5,
+            "picture":"https://i.postimg.cc/GmgLBsfT/Screenshot-2023-11-02-091425.png",
              "logo":"https://i.postimg.cc/pXCDGwZd/it-varsity.jpg",
             "name" : "IT Varsity",
             "Level" : "Front end web development(NQF 5)",
@@ -114,6 +119,7 @@
         {
             
             "id" : 6,
+            "picture":"https://i.postimg.cc/DfHtHPXz/Screenshot-2023-11-02-091053.png",
              "logo" : "https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
             "name" : "CAPACITI",
             "Level" : "Data analysis(NQF 5)",
@@ -123,6 +129,7 @@
            {
             
             "id" : 7,
+            "picture":"https://i.postimg.cc/3JM3mT99/Screenshot-2023-11-02-091259.png",
              "logo" : "https://i.postimg.cc/VLJzS6Gf/lca.jpg",
             "name" : "Life Choices Academy",
             "Level" : "Full stack web development(NQF 5)",

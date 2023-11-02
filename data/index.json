@@ -73,8 +73,8 @@
              "logo" :"https://i.postimg.cc/441gCrVF/Garlandale.jpg",
             "name" : "Garlandale Primary",
             "Level" : "Primary",
-            "year" : 2012
-         
+            "year" : 2012,
+            "Qualification":"Primary"   
         },
         {
             
@@ -83,8 +83,8 @@
              "logo" : "https://i.postimg.cc/nrGSybWK/jgmeiring.jpg",
             "name" : "J G Meiring",
             "Level" : "Matric",
-            "year" : 2017
-         
+            "year" : 2017,
+            "Qualification":"Matric"         
         },
         {
             
@@ -93,7 +93,8 @@
              "logo" : "https://i.postimg.cc/T1vgrKCQ/silulo.jpg",
             "name" : "Silulo Ulutho Technologies",
             "Level" : "End User computing(NQF 5)",
-            "year" : 2019
+            "year" : 2019,
+            "Qualification":"Certificate"   
          
         },
         {
@@ -103,7 +104,8 @@
              "logo" : "https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
             "name" : "CAPACITI",
             "Level" : "Basic Web Development(NQF 5)",
-            "year" : 2020
+            "year" : 2020,
+            "Qualification":"Certificate" 
          
         },
         {
@@ -113,7 +115,8 @@
              "logo":"https://i.postimg.cc/pXCDGwZd/it-varsity.jpg",
             "name" : "IT Varsity",
             "Level" : "Front end web development(NQF 5)",
-            "year" : 2022
+            "year" : 2022,
+            "Qualification":"Certificate" 
          
         },
         {
@@ -123,7 +126,8 @@
              "logo" : "https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
             "name" : "CAPACITI",
             "Level" : "Data analysis(NQF 5)",
-            "year" : 2022
+            "year" : 2022,
+            "Qualification":"Certificate" 
          
         },
            {
@@ -133,7 +137,8 @@
              "logo" : "https://i.postimg.cc/VLJzS6Gf/lca.jpg",
             "name" : "Life Choices Academy",
             "Level" : "Full stack web development(NQF 5)",
-            "year" : 2023
+            "year" : 2023,
+            "Qualification":"Certificate" 
          
         }
     ],

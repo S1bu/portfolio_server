@@ -244,10 +244,53 @@
              "Description" : "Built using html , css , Javascript & Bootstrap",
              "codeUrl" : "https://github.com/S1bu/Temperature-converter",
              "showUrl" : "https://temperature-convertor-sd.netlify.app/"
+        },
+          {
+            
+            "id" : 7,
+           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+             "project" : "Wordpress portfolio website",
+             "Description" : "Built using Wordpress and elementor(Plugin)",
+               "codeUrl" : "",
+             "showUrl" : "https://sibusiso.dyan.itvarsitystudent.org/"
+        },
+          {
+            
+            "id" : 8,
+           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+             "project" : "Netflix clone",
+             "Description" : "Built using html , css & Bootstrap",
+              "codeUrl" : "https://github.com/Sibu-dev-stuff/netflix.git",
+             "showUrl" : "https://netflix-clone-sibusiso-dyan.netlify.app/"
+        },
+          {
+            
+            "id" : 9,
+           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+             "project" : "Mini blog app",
+             "Description" : "Built using html , css , Javascript & Bootstrap",
+              "codeUrl" : "https://github.com/Sibu-dev-stuff/mini-blog.git",
+             "showUrl" : "https://mini-blog-sibusiso-dyan.netlify.app/ "
+        },
+            {
+            
+            "id" : 10,
+           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+             "project" : "Youtube",
+             "Description" : "Built using html , css , Javascript & Bootstrap",
+              "codeUrl" : "",
+             "showUrl" : "https://zaio-youtube-sibusisodyan.netlify.app/"
+        },
+         {
+            
+            "id" : 11,
+           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+             "project" : "Image gallery",
+             "Description" : "Built using html , css , Javascript & Bootstrap",
+              "codeUrl" : " https://github.com/sibusisodyan-ITvarsity/module-11-assessment-1",
+             "showUrl" : "https://sibusisodyan-itvarsity.github.io/module-11-assessment-1/"
         }
-         
-       
-        
+
     ],
     "Testimonials" : [
         {

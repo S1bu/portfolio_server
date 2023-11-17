@@ -295,7 +295,7 @@
             "id" : 12,
            "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
              "project" : "FoodieFnatix",
-             "Description" : "Built using html , css & Bootstrap",
+             "Description" : "Built using html , css , Bootstrap Javascript",
               "codeUrl" : "https://github.com/S1bu/foodie-fanatix-ecommerce",
              "showUrl" : "https://s1bu.github.io/foodie-fanatix-ecommerce/"
         }

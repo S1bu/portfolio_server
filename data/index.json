@@ -3,63 +3,63 @@
     "Skills" : [
        {
             "id" : 1,
-            "logo" : "https://i.postimg.cc/pT7XRpB1/HTML-LOGO.png",
+            "logo" : "https://i.ibb.co/7YpN60Z/HTML.png",
             "name" : "HTML",
             "Level" : "Junior",
             "Description" : "I spent a lot of time working with this language, which, contrary to what I had initially assumed 😆, was merely a markup language. Making use of it, I developed many simple web applications and became proficient. I began learning HTML in 2020 while performing fundamental web development at CAPACIT. It's a fairly entertaining language."
         },
         {
             "id" : 2,
-            "logo" : "https://i.postimg.cc/8PLWXSpV/CSS-LOGO.png",
+            "logo" : "https://i.ibb.co/ZxLr05r/CSS.png",
             "name" : "CSS",
             "Level" : "Junior",
             "Description" : "Been 3yrs working with this styling language ,im still learning at it improves it syntax from time to time,built quite a number of web apps with it ,you can check my projects in the projects section"
         },
         {
             "id" : 3,
-            "logo" : "https://i.postimg.cc/Nj4XYk2J/BS-LOGO.png",
+            "logo" : "https://i.ibb.co/6nSvM4X/boostrap.png",
             "name" : "Bootstrap",
             "Level" : "Junior",
             "Description" : "Very cool CSS framework ,I use it very often for responsivness benefits ,Stared working with bootstrap in 2021, but I wasnt very fond of it then until I did my second boot camp at digital academy which was a duration of 3 months,the pressure was on and time managemnet was a big deal 😦,so I had to use bootstrap for most of the web apps I built.I have learnt to manage my time strictly ever since ✅."
         },
         {
             "id" : 4,
-            "logo" : "https://i.postimg.cc/xjJLHmB8/SQL-LOG.png",
+            "logo" : "https://i.ibb.co/F5nK9QD/SQL.png",
             "name" : "SQL",
             "Level" : "Junior",
             "Description" : "I leanrt SQL on my own on Solo learn ,learning this language was very fun,I can say with confidence that its pretty easy 👍"
         },
         {
             "id" :5,
-            "logo" : "https://i.postimg.cc/J7fZQnWq/JS-LOGO.png",
+            "logo" : "https://i.ibb.co/SvNSBkM/javascipt.png",
             "name" : "Javascript",
             "Level" : "Junior",
             "Description" : "🤓💻I first encountered Javascript in 2021, but I had no idea what I was doing. Over the following years, I continued to study more about it, both online and by attending bootcamps, in an effort to improve my proficiency with it."
         },
         {
             "id" : 6,
-            "logo" : "https://i.postimg.cc/HkHMfhn8/wordpress-logo.png",
+            "logo" : "https://i.ibb.co/7kjHFH2/logo-200x200.png",
             "name" : "Wordpress",
             "Level" : "Junior",
             "Description" : "The last time i worked on this project was 2021 , havent been using it for quite some time , because I believe in the freedom of coding my own projects 🙂"
         },
         {
             "id" : 7,
-            "logo" : "https://i.postimg.cc/Hj1Y8RRw/UX-LOGO.png",
+            "logo" : "https://i.ibb.co/J3cC36d/ux.png",
             "name" : "UX Design",
             "Level" : "Junior",
             "Description" : "I've been working with UX design for three years, and for education and inspiration, I've browsed instagram and youtube channels as well as went to bootcamps.My design skills have definitely improved over the past three years, but there is always potential for improvement.💪"
         },
         {
             "id" : 8,
-            "logo" : "https://i.postimg.cc/KjMczxqc/vue-logo.png",
+            "logo" : "https://i.ibb.co/7kjHFH2/logo-200x200.png",
             "name" : "Vue.js",
             "Level" : "Junior",
             "Description" : "Vue.js is something I've only recently started using, but so far it's been challenging and intriguing.This web app was developed with Vue.js. I'm shortly going to build an ecommerce using this JS framework. "
         },
            {
             "id" : 9,
-            "logo" : "https://i.postimg.cc/d3mx9bHb/logo-200x200.png",
+            "logo" : "https://i.ibb.co/zf7w694/python.png",
             "name" : "Python",
             "Level" : "Junior",
             "Description" : "🐍✅Im excited to have started leanrning this programming language,its syntax is very simple and readable.I havent built any project with this language as of yet,but sooon I will be working on cool things like live image recognition."

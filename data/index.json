@@ -1,6 +1,6 @@
 
 {
-    "Skills" : [
+    "Skills" : [    
        {
             "id" : 1,
             "logo" : "https://i.ibb.co/7YpN60Z/HTML.png",
@@ -218,27 +218,9 @@
              "codeUrl" : "https://github.com/S1bu/Calculator",
              "showUrl" : "https://calculator-app-sibusiso.netlify.app/"
         },
-        {
-            
-            "id" : 5,
-            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
-             "project" : "Ecommerce",
-             "Description" : "Built using html , css , Javascript & Bootstrap",
-             "codeUrl" : "https://github.com/S1bu/Javascript_EOMP",
-             "showUrl" : "https://javascript-eomp-ecommerce.netlify.app/"
-        },
-        {
-            
-            "id" : 6,
-           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
-             "project" : "Temperature converter",
-             "Description" : "Built using html , css , Javascript & Bootstrap",
-             "codeUrl" : "https://github.com/S1bu/Temperature-converter",
-             "showUrl" : "https://temperature-convertor-sd.netlify.app/"
-        },
           {
             
-            "id" : 7,
+            "id" : 5,
            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Wordpress portfolio website",
              "Description" : "Built using Wordpress and elementor(Plugin)",
@@ -247,7 +229,7 @@
         },
           {
             
-            "id" : 8,
+            "id" : 6,
            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Netflix clone",
              "Description" : "Built using html , css & Bootstrap",
@@ -256,25 +238,16 @@
         },
           {
             
-            "id" : 9,
+            "id" : 7,
            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Mini blog app",
              "Description" : "Built using html , css , Javascript & Bootstrap",
               "codeUrl" : "https://github.com/Sibu-dev-stuff/mini-blog.git",
              "showUrl" : "https://mini-blog-sibusiso-dyan.netlify.app/ "
         },
-            {
-            
-            "id" : 10,
-           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
-             "project" : "Youtube",
-             "Description" : "Built using html , css , Javascript & Bootstrap",
-              "codeUrl" : "https://github.com/S1bu/youtube-clone-sibusiso-dyan",
-             "showUrl" : "https://s1bu.github.io/youtube-clone-sibusiso-dyan/"
-        },
          {
             
-            "id" : 11,
+            "id" : 8,
            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Image gallery",
              "Description" : "Built using html , css , Javascript & Bootstrap",
@@ -283,7 +256,7 @@
         },
            {
             
-            "id" : 12,
+            "id" : 9,
            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "FoodieFnatix",
              "Description" : "Built using html , css , Bootstrap Javascript",

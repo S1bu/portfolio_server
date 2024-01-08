@@ -1,6 +1,6 @@
 
 {
-     "Skills" : [
+    "Skills" : [
        {
             "id" : 1,
             "logo" : "https://i.postimg.cc/pT7XRpB1/HTML-LOGO.png",
@@ -66,20 +66,11 @@
         }
     ],
     "education" : [
+        
         {
             
             "id" : 1,
-            "picture":"https://i.postimg.cc/zXTBtjfC/Screenshot-2023-11-02-093721.png",
-             "logo" :"https://i.postimg.cc/441gCrVF/Garlandale.jpg",
-            "name" : "Garlandale Primary",
-            "Level" : "Primary",
-            "year" : 2012,
-            "Qualification":"Primary"   
-        },
-        {
-            
-            "id" : 2,
-            "picture":"https://i.postimg.cc/SjFrfrxT/Screenshot-2023-11-02-093329.png",
+            "picture":"https://i.ibb.co/NnPH11h/school-2017.jpg",
              "logo" : "https://i.postimg.cc/nrGSybWK/jgmeiring.jpg",
             "name" : "J G Meiring",
             "Level" : "Matric",
@@ -88,9 +79,9 @@
         },
         {
             
-            "id" : 3,
-            "picture":"https://i.postimg.cc/FHxZ005p/Screenshot-2023-11-02-093034.png",
-             "logo" : "https://i.postimg.cc/T1vgrKCQ/silulo.jpg",
+            "id" : 2,
+            "picture":"https://i.ibb.co/Hg9pVjP/Screenshot-2024-01-08-093500.png",
+             "logo" : "https://i.ibb.co/Mp7FvBD/Screenshot-2024-01-08-094957.png",
             "name" : "Silulo Ulutho Technologies",
             "Level" : "End User computing",
             "year" : 2019,
@@ -99,9 +90,9 @@
         },
         {
             
-            "id" : 4,
-            "picture":"https://i.postimg.cc/3rn1dSft/Screenshot-2023-11-02-145211.png",
-             "logo" : "https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
+            "id" : 3,
+            "picture":"https://i.ibb.co/5FFr9S5/Screenshot-2024-01-08-092535.png",
+             "logo" : "https://i.ibb.co/f4bNyms/Screenshot-2024-01-08-095353.png",
             "name" : "CAPACITI",
             "Level" : "Basic Web Development",
             "year" : 2020,
@@ -110,9 +101,9 @@
         },
         {
             
-            "id" : 5,
-            "picture":"https://i.postimg.cc/GmgLBsfT/Screenshot-2023-11-02-091425.png",
-             "logo":"https://i.postimg.cc/pXCDGwZd/it-varsity.jpg",
+            "id" : 4,
+            "picture":"https://i.ibb.co/fYPL4TW/Screenshot-2024-01-08-092815.png",
+             "logo":"https://i.ibb.co/XxKygx1/Screenshot-2024-01-08-094932.png",
             "name" : "IT Varsity",
             "Level" : "Front end web development",
             "year" : 2021,
@@ -121,9 +112,9 @@
         },
         {
             
-            "id" : 6,
-            "picture":"https://i.postimg.cc/DfHtHPXz/Screenshot-2023-11-02-091053.png",
-             "logo" : "https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
+            "id" : 5,
+            "picture":"https://i.ibb.co/SwbpFNd/Screenshot-2024-01-08-092658.png",
+             "logo" : "https://i.ibb.co/f4bNyms/Screenshot-2024-01-08-095353.png",
             "name" : "CAPACITI",
             "Level" : "Data analysis",
             "year" : 2022,
@@ -132,9 +123,9 @@
         },
            {
             
-            "id" : 7,
-            "picture":"https://i.postimg.cc/3JM3mT99/Screenshot-2023-11-02-091259.png",
-             "logo" : "https://i.postimg.cc/VLJzS6Gf/lca.jpg",
+            "id" : 6,
+            "picture":"https://i.ibb.co/ZGXqkNT/Screenshot-2024-01-08-093324.png",
+             "logo" : "https://i.ibb.co/8dGpzwF/Screenshot-2024-01-08-094904.png",
             "name" : "Life Choices Academy",
             "Level" : "Full stack web development",
             "year" : 2023,
@@ -145,7 +136,7 @@
     "Work" :[
         {
             "id" : 1,
-             "image":"https://i.postimg.cc/DZRMfG55/lcstudio.jpg",
+             "image":"https://i.ibb.co/8dGpzwF/Screenshot-2024-01-08-094904.png",
             "institution" : "Life Choices Academy",
             "role" : "Lc Studio Intern",
             "duration": " September- present",
@@ -154,7 +145,7 @@
         },
         {
             "id" : 2,
-            "image" :"https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
+            "image" :"https://i.ibb.co/f4bNyms/Screenshot-2024-01-08-095353.png",
             "institution" : "Capaciti",
             "role" : "Data analyst (Bootcamp trainee)",
             "duration": "Aug 2022 - Nov 2022",
@@ -163,7 +154,7 @@
         },
         {
             "id" : 3,
-            "image" :"https://i.postimg.cc/hGJjbHkY/Digital-academy.jpg",
+            "image" :"https://i.ibb.co/QFyW0bs/Screenshot-2024-01-08-100243.png",
             "institution" : "Digital Academy",
             "role" : " Fullstack web developer(Bootcamp trainee)",
             "duration": "March 2022 - July 2022",
@@ -172,7 +163,7 @@
         },
         {
             "id" : 4,
-            "image" :"https://i.postimg.cc/pXCDGwZd/it-varsity.jpg",
+            "image" :"https://i.ibb.co/XxKygx1/Screenshot-2024-01-08-094932.png",
             "institution" : "IT Varsity",
             "role" : "Frontend web development(Bootcamp trainee)",
             "duration": "Nov 2020 - Oct 2021",
@@ -181,7 +172,7 @@
         },
         {
             "id" : 5,
-            "image" :"https://i.postimg.cc/pLcrj268/capaciti-logo.jpg",
+            "image" :"https://i.ibb.co/f4bNyms/Screenshot-2024-01-08-095353.png",
             "institution" : "Capaciti",
             "role" : "Frontend web development(Bootcamp trainee)",
             "duration": " March 2020 - Oct 2020",
@@ -194,7 +185,7 @@
         {
             
             "id" : 1,
-           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "BMI Calculator",
              "Description" : "Built using html , css , Javascript & Bootstrap",
              "codeUrl" : "https://github.com/S1bu/BMI-calculator",
@@ -203,7 +194,7 @@
         {
             
             "id" : 2,
-            "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Tesla Landing page",
              "Description" : "Built using html & css",
              "codeUrl" : "https://github.com/Sibu-dev-stuff/tesla",
@@ -212,7 +203,7 @@
         {
             
             "id" : 3,
-            "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Guess the number",
              "Description" : "Built using html , css & Javascript",
              "codeUrl" : "https://github.com/Sibu-dev-stuff/Guess-game",
@@ -221,7 +212,7 @@
         {
             
             "id" : 4,
-          "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+          "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Calculator",
              "Description" : "Built using html , css , Javascript & Bootstrap",
              "codeUrl" : "https://github.com/S1bu/Calculator",
@@ -230,7 +221,7 @@
         {
             
             "id" : 5,
-            "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Ecommerce",
              "Description" : "Built using html , css , Javascript & Bootstrap",
              "codeUrl" : "https://github.com/S1bu/Javascript_EOMP",
@@ -239,7 +230,7 @@
         {
             
             "id" : 6,
-           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Temperature converter",
              "Description" : "Built using html , css , Javascript & Bootstrap",
              "codeUrl" : "https://github.com/S1bu/Temperature-converter",
@@ -248,7 +239,7 @@
           {
             
             "id" : 7,
-           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Wordpress portfolio website",
              "Description" : "Built using Wordpress and elementor(Plugin)",
                "codeUrl" : "",
@@ -257,7 +248,7 @@
           {
             
             "id" : 8,
-           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Netflix clone",
              "Description" : "Built using html , css & Bootstrap",
               "codeUrl" : "https://github.com/Sibu-dev-stuff/netflix.git",
@@ -266,7 +257,7 @@
           {
             
             "id" : 9,
-           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Mini blog app",
              "Description" : "Built using html , css , Javascript & Bootstrap",
               "codeUrl" : "https://github.com/Sibu-dev-stuff/mini-blog.git",
@@ -275,7 +266,7 @@
             {
             
             "id" : 10,
-           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Youtube",
              "Description" : "Built using html , css , Javascript & Bootstrap",
               "codeUrl" : "https://github.com/S1bu/youtube-clone-sibusiso-dyan",
@@ -284,7 +275,7 @@
          {
             
             "id" : 11,
-           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "Image gallery",
              "Description" : "Built using html , css , Javascript & Bootstrap",
               "codeUrl" : " https://github.com/sibusisodyan-ITvarsity/module-11-assessment-1",
@@ -293,7 +284,7 @@
            {
             
             "id" : 12,
-           "image" :"https://i.postimg.cc/VkySz1Fg/spaceman3.jpg",
+           "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
              "project" : "FoodieFnatix",
              "Description" : "Built using html , css , Bootstrap Javascript",
               "codeUrl" : "https://github.com/S1bu/foodie-fanatix-ecommerce",
@@ -305,42 +296,36 @@
         {
             "id" : 1,
              "fullname" : "Jason Viljoen",
-             "image" : "https://i.postimg.cc/FKjWZbYm/C12-Jason-Viljoen-1.jpg",
+             "image" : "https://i.ibb.co/jfRyf04/C12-Jason-Viljoen-1.jpg",
              "Relation" : "Peer",
              "Description" : "Being able to collaborate with Sibusiso on projects has been a true pleasure. He demonstrates excellent potential and a desire to pick up new abilities, makes the workplace productive. In the brief period that we have worked together,he has consistently demonstrated a keen interest in both front end and back end development.generating fresh, creative ideas, which makes him a valuable member of any team or organization. He is extremely meticulous and professional throughout all of his endeavors."
         },
         {
             "id" : 2,
              "fullname" : "Alonso Cupido ",
-             "image":"https://i.postimg.cc/tRV1mrXh/C12-Alonso-Cupido-1.jpg",
+             "image":"https://i.ibb.co/W0WL7c7/c12-alonso-cupido-1.jpg",
              "Relation" : "Peer",
              "Description" : "Sibusiso is an excellent individual that works well in a team, puts in a lot of effort, and is consistently on time. He is an excellent addition to your team and is highly dependable. He has a solid understanding of IT and web development. If you were to accept him, any team would be fortunate."
         },
         {
             "id" : 3,
              "fullname" : "Tara Snell",
-             "image" : "https://i.postimg.cc/dt6B2kF6/TARA.jpg",
+             "image" : "https://i.ibb.co/dptpvww/T02-LW4-RMXJQ-U051-LU5-E4-CD-f0867a0b402e-512.jpg",
              "Relation" : "Peer",
              "Description" : "Sibusiso Dyan is the most helpful and skilled person , who knows what he is doing. He has a very good understanding on html and css and bootstrap. He has many strong points in web development. He can pick on errors very well and able to fix them well. He has leadership skills, adapts well to almost anything he is faced with. I aspire to be a great web developer as Sibusiso. He inspires me. He will be an asset to any company or field he works in."
         },
+       
         {
             "id" : 4,
-             "fullname" : "Rabia Haucha",
-             "image" : "https://i.postimg.cc/Jng9Fmn9/LCA-Rabia-Haucha-Ju23-2.jpg",
-             "Relation" : "Peer",
-             "Description" : "Sibusiso, or Sibu as he like to be called, is a go-getter and a true diamond both personally and professionally. He is also a wonderful person all around.In addition, he is incredibly helpful and intelligent.He is always willing to clarify and make sure you understand if you don't comprehend something.He is a really friendly and upbeat persona who makes you feel at ease.He truly works hard and is very focused on his objectives and work. However, he is a terrific guy and will turn any company into a success!"
-        },
-        {
-            "id" : 5,
              "fullname" : "Waydin Jochem",
-             "image":"https://i.postimg.cc/hGpzz5Jh/image.jpg",
+             "image":"https://i.ibb.co/s1BbffM/T02-LW4-RMXJQ-U0519-AXF1-N3-0e6fa72e9ffd-512.jpg",
              "Relation" : "Peer",
              "Description" : "Sibusiso, great guy, focused individual, knows what he wants. His way of thinking and implementing his thoughts and planning into coding is great. Phenomenal guy, good team player and has a strong knowledge of coding."
         },
         {
-            "id" : 6,
+            "id" : 5,
              "fullname" : "Kgodisho Lebopo",
-             "image":"https://i.postimg.cc/zvyb7Dg4/image.png",
+             "image":"https://i.ibb.co/2Z3MbxB/T02-LW4-RMXJQ-U0519-ACHVKR-b1b4dd793808-512.jpg",
              "Relation" : "Peer",
              "Description" : "Sibusiso's passion for coding and commitment to learning has evident from the start, and he quickly established himself as a leader among us. He consistently demonstrates a strong work ethic, taking on challenging projects with enthusiasm and tenacity."
         }

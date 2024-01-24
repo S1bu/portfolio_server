@@ -258,10 +258,10 @@
             
             "id" : 9,
            "image" :"https://i.ibb.co/7GdLkQR/spaceman.jpg",
-             "project" : "FoodieFnatix",
+             "project" : "Foodie Machine",
              "Description" : "Built using html , css , Bootstrap Javascript",
-              "codeUrl" : "https://github.com/S1bu/foodie-fanatix-ecommerce",
-             "showUrl" : "https://s1bu.github.io/foodie-fanatix-ecommerce/"
+              "codeUrl" : "https://github.com/S1bu/foodMachine",
+             "showUrl" : "https://food-machine-psi.vercel.app/"
         }
 
     ],

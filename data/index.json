@@ -311,6 +311,33 @@
              "Relation" : "Peer",
              "Description" : "Sibusiso's passion for coding and commitment to learning has evident from the start, and he quickly established himself as a leader among us. He consistently demonstrates a strong work ethic, taking on challenging projects with enthusiasm and tenacity."
         }
+    ],
+    "badges" : [
+        {
+            "id":1,
+            "badge_name":"Cloud Foundations",
+            "badge_image":"https://i.ibb.co/wBHSjGQ/AWS-Academy-Graduate-AWS-Academy-Cloud-Foundations.png"
+        },
+        {
+            "id":2,
+            "badge_name":"Cloud-computing 101",
+            "badge_image":"https://i.ibb.co/z543Jdh/Cloud-computing-101.png"
+        },
+        {
+            "id":3,
+            "badge_name":"Introduction to cybersecurity",
+            "badge_image":"https://i.ibb.co/JrgKmC5/Introduction-to-cyber-security.png"
+        },
+        {
+            "id":4,
+            "badge_name":"Networking basics",
+            "badge_image":"https://i.ibb.co/cxQGghV/Network-basics.png"
+        },
+        {
+            "id":5,
+            "badge_name":"Operating systems basic",
+            "badge_image":"https://i.ibb.co/XL6Zv2f/Operating-systems-basic.png"
+        }
     ]
 }
  

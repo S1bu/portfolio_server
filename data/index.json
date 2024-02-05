@@ -337,6 +337,11 @@
             "id":5,
             "badge_name":"Operating systems basic",
             "badge_image":"https://i.ibb.co/XL6Zv2f/Operating-systems-basic.png"
+        },
+        {
+            "id":6,
+            "badge_name":"Junior Cybersecurity Analyst Career Path",
+            "badge_image":"https://i.ibb.co/9qhHKy4/Screenshot-2024-02-05-124802.png"
         }
     ]
 }

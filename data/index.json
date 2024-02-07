@@ -342,6 +342,11 @@
             "id":6,
             "badge_name":"Junior Cybersecurity Analyst Career Path",
             "badge_image":"https://i.ibb.co/9qhHKy4/Screenshot-2024-02-05-124802.png"
+        },
+        {
+            "id":7,
+            "badge_name":"Network Technician Career Path",
+            "badge_image":"https://i.ibb.co/rk1QGfv/Screenshot-2024-02-07-132212.png"
         }
     ]
 }

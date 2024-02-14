@@ -330,42 +330,51 @@
         {
             "id":1,
             "badge_name":"Cloud Foundations",
-            "badge_image":"https://i.ibb.co/wBHSjGQ/AWS-Academy-Graduate-AWS-Academy-Cloud-Foundations.png"
+            "badge_image":"https://i.ibb.co/Zdynp82/Cloud-foundations.png",
+            "badge_link":"https://www.credly.com/badges/be2bc0b5-8ddb-4753-9314-f5082c9561ef/public_url"
         },
         {
             "id":2,
             "badge_name":"Cloud-computing 101",
-            "badge_image":"https://i.ibb.co/z543Jdh/Cloud-computing-101.png"
+            "badge_image":"https://i.ibb.co/R4t2jfb/cloudcomputing.png",
+            "badge_link":"https://www.credly.com/badges/c3bb71b3-4ae4-486e-8e0a-56526968af90/public_url"
         },
         {
             "id":3,
             "badge_name":"Introduction to cybersecurity",
-            "badge_image":"https://i.ibb.co/JrgKmC5/Introduction-to-cyber-security.png"
+            "badge_image":"https://i.ibb.co/Vm659d0/introduction-to-cybersecurity.png",
+            "badge_link":"https://www.credly.com/badges/7cb51667-8a1a-4be1-a8ea-6542cc589821/public_url"
         },
         {
             "id":4,
             "badge_name":"Networking basics",
-            "badge_image":"https://i.ibb.co/cxQGghV/Network-basics.png"
+            "badge_image":"https://i.ibb.co/cxQGghV/Network-basics.png",
+            "badge_link":"https://www.credly.com/badges/380b7f23-f948-4c1c-a4d7-f638d20a4091/public_url"
         },
         {
             "id":5,
             "badge_name":"Operating systems basic",
-            "badge_image":"https://i.ibb.co/XL6Zv2f/Operating-systems-basic.png"
+            "badge_image":"https://i.ibb.co/ssKyJZM/operating-system.png",
+            "badge_link":"https://www.credly.com/badges/35b85a34-4d4d-4041-8481-3d33e50c0a27/public_url"
         },
         {
             "id":6,
             "badge_name":"Junior Cybersecurity Analyst Career Path",
-            "badge_image":"https://i.ibb.co/9qhHKy4/Screenshot-2024-02-05-124802.png"
+            "badge_image":"https://i.ibb.co/svqpW3t/juinior.png",
+            "badge_link":"https://www.credly.com/badges/7cb51667-8a1a-4be1-a8ea-6542cc589821/public_url"
         },
         {
             "id":7,
             "badge_name":"Network Technician Career Path",
-            "badge_image":"https://i.ibb.co/rk1QGfv/Screenshot-2024-02-07-132212.png"
+            "badge_image":"https://i.ibb.co/RQQydmQ/network-tecknician.png",
+            "badge_link":"https://www.credly.com/badges/8284c0f4-3430-44d9-90f7-f16ce6f284a1/public_url"
         },
         {
             "id":8,
             "badge_name":"Python Essentials",
-            "badge_image":"https://i.ibb.co/GVLLd1H/python.png"
+            "badge_image":"https://i.ibb.co/GVLLd1H/python.png",
+            "badge_link":"https://www.credly.com/badges/6e72ce91-61a4-44c4-b2cb-fb9e3c4bb20f/public_url"
+            
         }
     ]
 }

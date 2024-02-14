@@ -63,7 +63,21 @@
             "name" : "Python",
             "Level" : "Junior",
             "Description" : "🐍✅Im excited to have started leanrning this programming language,its syntax is very simple and readable.I havent built any project with this language as of yet,but sooon I will be working on cool things like live image recognition."
-        }
+        },
+        {
+         "id" : 10,
+         "logo" : "https://i.ibb.co/SmrSffJ/node.png",
+         "name" : "Node.js",
+         "Level" : "Junior",
+         "Description" : ""
+     },
+     {
+        "id" : 11,
+        "logo" : "https://i.ibb.co/xhGktj2/express.png",
+        "name" : "Experss.js",
+        "Level" : "Junior",
+        "Description" : ""
+    }
     ],
     "education" : [
         
@@ -347,6 +361,11 @@
             "id":7,
             "badge_name":"Network Technician Career Path",
             "badge_image":"https://i.ibb.co/rk1QGfv/Screenshot-2024-02-07-132212.png"
+        },
+        {
+            "id":8,
+            "badge_name":"Python Essentials",
+            "badge_image":"https://i.ibb.co/W3dpykd/Screenshot-2024-02-14-095613.png"
         }
     ]
 }

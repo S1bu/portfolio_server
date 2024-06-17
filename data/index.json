@@ -196,6 +196,15 @@
             "duration": " March 2020 - Oct 2020",
             "reason":"Contract ended",
             "duties": "Building basic websites using basic html and basic css and Meeting project deadlines."
+        },
+         {
+            "id" : 6,
+            "image" :"https://i.ibb.co/YRZqyJ6/Screenshot-2024-06-17-191051.png",
+            "institution" : "Cirrico",
+            "role" : "Salesforce Administrator Trainee",
+            "duration": " April 2024 - Present",
+            "reason":"Still active",
+            "duties": "..."
         }
         
     ],

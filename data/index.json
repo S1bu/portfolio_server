@@ -389,6 +389,27 @@
             "badge_link":"https://www.credly.com/badges/6e72ce91-61a4-44c4-b2cb-fb9e3c4bb20f/public_url"
             
         }
+    ],
+
+    "Quotes" : [
+        {
+            "id": 1,
+            "image":"https://i.insider.com/58b87bbaca2b011b008b4c30?width=500&format=jpeg&auto=webp&quality=60,55",
+            "name":"Tony Robbins",
+            "Quote":"Every problem is a gift - without problems we would not grow."
+        },
+        {
+            "id": 2,
+            "image":"http://unknews.unk.edu/wp-content/uploads/2016/01/BARACK-OBAMA.jpg",
+            "name":"Barack Obama",
+            "Quote":"The real test is not whether you avoid this failure, because you won’t. It’s whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere."
+        },
+        {
+            "id": 3,
+            "image":"https://www.discoverwalks.com/blog/wp-content/uploads/2022/07/899px-henry_ford_cph.3b34530.jpg",
+            "name":"Henry Ford",
+            "Quote":"Paying attention to simple little things that most men neglect makes a few men rich."
+        }
     ]
 }
  

@@ -122,7 +122,17 @@
             "role" : "Lc Studio Intern",
             "duration": " September- present",
             "reason":"still active",
-            "duties" : "Follow the SDLC(Software development life choice),UX Design,Build and maintain/update our websites and apps."
+            "duties" : [ 
+                "Building user interfaces using HTML, CSS, JavaScript & Vue.js.",
+                "Ensuring responsiveness and cross-browser compatibility.",
+                "Implementing designs provided by UI/UX designers.",
+                "Optimizing front-end performance for speed and scalability.",
+                "Designing database schemas and models.",
+                "Writing database queries, stored procedures, and triggers to manipulate data.",
+                "Using version control systems like Git to manage codebase changes and collaborate with team members.",
+                "Keeping up-to-date with latest technologies, trends, and best practices in web development.",
+                "Working closely with UI/UX designers, back-end developers, and other team members to ensure seamless integration of front-end and back-end components."
+            ]
         },
         {
             "id" : 2,
@@ -131,7 +141,14 @@
             "role" : "Data analyst (Bootcamp trainee)",
             "duration": "Aug 2022 - Nov 2022",
             "reason":"Contract ended",
-            "duties" :"Data capture, data visualisation , data sorting , data cleaning , and presenting our data."
+            "duties" :[
+            "Leant fundamentals of Salesforce and its various modules",
+            "Assist in configuration and customization of salesforce applications",
+            "Work closely with experienced Salesforce professionals on real-world projects",
+            "Collaborate with cross-functional teams to understand business requirements and implement solutions.",
+            "Provide support in troubleshooting and resolving Salesforce-related issues.",
+            "Participate in training sessions and workshops to enhance skills and knowledge."
+        ]
         },
         {
             "id" : 3,
@@ -140,7 +157,17 @@
             "role" : " Fullstack web developer(Bootcamp trainee)",
             "duration": "March 2022 - July 2022",
             "reason":"Contract ended",
-            "duties" : "UX deseign , Build and maintain web apps"
+            "duties" : [ 
+                "Building user interfaces using HTML, CSS, JavaScript & Angular 13.",
+                "Ensuring responsiveness and cross-browser compatibility.",
+                "Implementing designs provided by UI/UX designers.",
+                "Optimizing front-end performance for speed and scalability.",
+                "Designing database schemas and models.",
+                "Writing database queries, stored procedures, and triggers to manipulate data.",
+                "Using version control systems like Git to manage codebase changes and collaborate with team members.",
+                "Keeping up-to-date with latest technologies, trends, and best practices in web development.",
+                "Working closely with UI/UX designers, back-end developers, and other team members to ensure seamless integration of front-end and back-end components."
+            ]
         },
         {
             "id" : 4,
@@ -149,7 +176,14 @@
             "role" : "Frontend web development(Bootcamp trainee)",
             "duration": "Nov 2020 - Oct 2021",
             "reason":"Contract ended",
-            "duties" : "UX Design,Build and maintain websites and apps,Time management and active learning."
+            "duties" : [
+            "Designing front-end applications and user interactive web pages using HTML, CSS and JavaScript.",
+            "Assist in troubleshooting issues on web-based systems.",
+            "Update and edit website content, posts and pages.",
+            "Provide technical support related to web-based systems to internal teams.",
+            "Test and give feedback on new and existing technologies.",
+            "Create prototypes and experiment with new technologies and features as assigned."
+            ]
         },
         {
             "id" : 5,
@@ -167,9 +201,13 @@
             "role" : "Salesforce Administrator Trainee",
             "duration": " April 2024 - Present",
             "reason":"Still active",
-            "duties": "..."
+            "duties":[ "Leant fundamentals of Salesforce and its various modules",
+            "Assist in configuration and customization of salesforce applications",
+            "Work closely with experienced Salesforce professionals on real-world projects",
+            "Collaborate with cross-functional teams to understand business requirements and implement solutions.",
+            "Provide support in troubleshooting and resolving Salesforce-related issues.",
+            "Participate in training sessions and workshops to enhance skills and knowledge."]
         }
-        
     ],
     "Projects" : [
         {
